@@ -1,0 +1,8 @@
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\bin\Debug\Car Wash Simulation.exe.config
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\bin\Debug\Car Wash Simulation.exe
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\bin\Debug\Car Wash Simulation.pdb
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\obj\Debug\Car_Wash_Simulation.Form1.resources
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\obj\Debug\Car_Wash_Simulation.Properties.Resources.resources
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\obj\Debug\Car Wash Simulation.csproj.GenerateResource.Cache
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\obj\Debug\Car Wash Simulation.exe
+C:\Users\Vin Le\Documents\Visual Studio 2012\Projects\Car Wash Simulation\Car Wash Simulation\obj\Debug\Car Wash Simulation.pdb
